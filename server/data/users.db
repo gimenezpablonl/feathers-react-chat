@@ -1,0 +1,3 @@
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
+{"email":"Juan","password":"$2a$10$A8XjY5GLrW.S1VeuHuIA8eo1fqx769e6MtH2kahB/VXh6s1oIwGmG","_id":"YPDtfkT6q0OVIaad"}
+{"email":"Pablo","password":"$2a$10$Uh9UTvXq6lyIym5N1wFMHOH7GhnYpUgnG2ZlMcU9w4RKEYKGIWE.q","_id":"ABNjgEYsNCJmchw5"}
